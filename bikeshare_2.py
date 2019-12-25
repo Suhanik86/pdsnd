@@ -18,7 +18,8 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-    #Adding teplate2 
+    #Adding teplate2
+    #Adding template3
 
     # get user input for month (all, january, february, ... , june)
 
