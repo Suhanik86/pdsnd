@@ -10,7 +10,7 @@ def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
     Adding a comment here for timepass
-    Another change 
+    Another change
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -18,7 +18,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    #Adding teplate2 
 
     # get user input for month (all, january, february, ... , june)
 
